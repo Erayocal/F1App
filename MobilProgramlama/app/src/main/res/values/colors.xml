@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Takım renkleri -->
+    <color name="mercedes_color">#00A19C</color>
+    <color name="ferrari_color">#DC0000</color>
+    <color name="redbull_color">#0600EF</color>
+</resources>
